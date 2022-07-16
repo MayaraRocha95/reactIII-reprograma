@@ -1,4 +1,4 @@
-# Projeto de RecatIII 
+# Projeto de ReactIII 
 Projeto da 3ª semana  de React na Reprograma.
 
 ## Descrição 

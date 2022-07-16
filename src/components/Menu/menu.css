@@ -20,7 +20,9 @@
   text-decoration: none;
   color: #686AAC;
 }
-
+.item .link:hover{
+  color:blueviolet;
+}
 body, input, button, textarea{
   font: 600 18px Nunito, sans-serif;
   margin: 0;

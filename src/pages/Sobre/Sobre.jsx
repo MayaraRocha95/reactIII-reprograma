@@ -4,6 +4,8 @@ import './sobre.css'
 import Titulo from './Titulo'
 import Paragrafo from './Paragrafo'
 import Gifs from './Gifs'
+import Button from './Button'
+
 function Sobre() {
   return(
     <section>
@@ -12,6 +14,9 @@ function Sobre() {
     description="ilustração de uma mulher em uma apresentação">
      Sobre mim
      </Header>
+     <div className="button">
+    <Button></Button>
+     </div>
       <div className="first-container">
      <Titulo title="4 aprendizados na reprograma" />
     <div className="container">

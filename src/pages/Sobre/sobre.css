@@ -21,7 +21,20 @@
   background-color: #686AAC;
   text-align: center;
 }
-
+.button {
+  text-align: center;
+  
+}
+.button a{
+    text-decoration: none;
+     color : white;
+     font-size: 25px;
+}
+.button button  {
+  padding: 20px;
+  background-color: blueviolet;
+ 
+}
 
 @media screen and (max-width: 768px){
  
